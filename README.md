@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Zach!
 
 <!--
 **ZachMos23/ZachMos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### What I have learned from github is that this is a platform for version control of your code along with great opportunities to collab with my fellow tablemates. In addition, I learned the basics of commiting my code, so I can record changes to files in my branch and how to post repositories to show my contributions to code. 
